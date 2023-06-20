@@ -1,1 +1,2 @@
-# Bash-Scripts-for-Server-Management
+# bash-scripts
+Bash Scripts for Server Management.
